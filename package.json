@@ -9,6 +9,7 @@
     "@types/google-protobuf": "3.7.3",
     "debug": "4.1.1",
     "google-protobuf": "3.13.0",
+    "moment": "2.27.0",
     "ws": "7.3.1"
   },
   "devDependencies": {
