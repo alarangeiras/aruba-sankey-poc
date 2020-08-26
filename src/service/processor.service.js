@@ -34,7 +34,7 @@ async function process(data) {
             debug(`MacAddress ${macAddressList}`);
 
         }
-        debug('===================================================================');
+        debug('\n\n\n');
 
     } catch(err) {
         console.error(err);
